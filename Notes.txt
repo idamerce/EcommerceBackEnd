@@ -1,0 +1,12 @@
+categorie name should be unique
+
+email,username also should be unique
+
+user roles
+
+here is the code for keystore : ecommerceSecureCode
+
+
+gestion d'error sur les quantite commande
+user info changer email confirmation email unique;
+sdk paypal visa
